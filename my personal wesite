@@ -1,0 +1,11 @@
+my-personal-website/
+│
+├── index.html
+├── styles/
+│   └── style.css
+├── scripts/
+│   └── main.js
+├── assets/
+│   └── profile.jpg  (optional placeholder)
+├── README.md
+└── .gitignore
